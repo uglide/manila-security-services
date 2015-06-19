@@ -52,3 +52,7 @@ crashlytics.properties
 crashlytics-build.properties
 
 
+
+puppet/.tmp
+puppet/.librarian
+puppet/modules

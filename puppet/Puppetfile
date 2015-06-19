@@ -1,0 +1,12 @@
+forge "https://forge.puppetlabs.com"
+
+
+mod 'puppet-module-kerberos',
+  :git => "git://github.com/edgester/puppet-module-kerberos.git"
+
+mod 'puppet-nis',
+  :git => "git://github.com/desalvo/puppet-nis.git"
+
+mod 'datacentred-ldap'
+mod 'puppetlabs-stdlib'
+mod 'puppetlabs-apt'
